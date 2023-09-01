@@ -15,3 +15,7 @@
 - git remote add origin url_de_votre_depot_github
 - git branch -M main
 - git push -u origin main
+
+# Ressource
+
+[Gitab cheatsheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf
