@@ -18,4 +18,4 @@
 
 # Ressource
 
-[Gitab cheatsheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf
+[Gitab cheatsheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
